@@ -28,6 +28,20 @@ A full-stack Lead Management Dashboard built with the MERN stack + TypeScript.
 - ✅ Form Validation
 - ✅ RESTful API with proper status codes
 
+## Screenshots
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Leads Page
+![Leads](./screenshots/leads.png)
+
+### Empty State
+![Empty State](./screenshots/empty-state.png)
+
 ## Project Structure
 
 ```
